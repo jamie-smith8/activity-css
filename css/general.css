@@ -78,7 +78,7 @@ img {
     border-left:  4px dotted #A0522D;
 }
 
-p1  {
+p:first-child  {
     font-family: Arial, Helvetica, sans-serif;
     color: #FF7F50;
     line-height: 2.2rem;
