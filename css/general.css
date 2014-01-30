@@ -3,10 +3,14 @@ html {
 }
 
 body {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-family: Times New Roman, serif;
     background-color: #F5F5DC;
     color: #A0522D;
+}
+
+p   {
+    line-height: 2rem;
 }
 
 h1 {
@@ -25,12 +29,13 @@ h2  {
     text-decoration:underline;
     color: #5F9EA0;
     text-align: left; 
+    line-height: 2.5rem;
 }
 
 h4  {
-    font-size: normal;
+    font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
-    color: #FF7F50;
+    color: #708090;
 }
 
 h5  {
@@ -43,11 +48,12 @@ ul  {
     font-family: Arial, Helvetica, sans-serif;
      list-style-image: url(paw-print.gif);  
     line-height: 2rem;
-}
- 
+    
+}   
+
 li  {
-    font-size: 1.2rem;
-    color: #663300; 
+    color: #5F9EA0;
+    font-size: 1.2rem; 
 }
 
 h3  {
@@ -69,3 +75,12 @@ img {
     border-left:  4px dotted #A0522D;
 }
 
+p1  {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF7F50;
+    line-height: 2.2rem;
+    margin-top: 2rem;
+    font-size: 1.4rem;
+    display: block;
+    text-align: center;
+}
