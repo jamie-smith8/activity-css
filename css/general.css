@@ -84,3 +84,13 @@ p1  {
     display: block;
     text-align: center;
 }
+
+hr  {
+    border: solid 4px #A0522D;
+}
+
+hr:nth-child (6) {
+    border: solid 8px #A0522D;
+}
+
+
